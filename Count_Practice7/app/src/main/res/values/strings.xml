@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Count_Practice7</string>
+    <string name="greetingsButton">Поздороваться</string>
+    <string name="countingButton">Жми на меня!</string>
+</resources>
